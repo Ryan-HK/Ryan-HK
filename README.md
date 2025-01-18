@@ -8,7 +8,7 @@
 ![Mybatis](https://img.shields.io/badge/Mybatis-90a4ae.svg?&style=for-the-badge&logo=Mybatis&logoColor=white&style=plastic)
 ![JPA](https://img.shields.io/badge/JPA-FF4000.svg?&style=for-the-badge&logo=Jpa&logoColor=white&style=plastic)
 
-![Python](https://img.shields.io/badge/Phthon-3776AB?&style=for-the-badge&logo=python&logoColor=white&style=plastic)
+![Python](https://img.shields.io/badge/Python-3776AB?&style=for-the-badge&logo=python&logoColor=white&style=plastic)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?&style=for-the-badge&logo=fastapi&logoColor=white&style=plastic)
 
 ### Frontend
